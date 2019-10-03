@@ -9,6 +9,7 @@ git clone https://github.com/mews-iidx/tutorial_cmd.git
 ## おみくじを実行してみよう
 
 ```sh
+cd tutorial_cmd
 python3 main.py
 ```
 
