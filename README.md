@@ -10,7 +10,7 @@ git clone https://github.com/mews-iidx/tutorial_cmd.git
 
 ```sh
 cd tutorial_cmd
-python3 main.py
+python3 call_omikuji.py
 ```
 
 ## おみくじを10回実行してみよう
